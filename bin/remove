@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# We can not "undo" shell commands. The remove action just does nothing.
+exit 0
